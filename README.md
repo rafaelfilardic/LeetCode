@@ -1,4 +1,4 @@
-# 🖥️ LeetCode Solutions
+# 📝 LeetCode Solutions
 This repository showcases my progress and solutions for a variety of LeetCode problems, which are a part of my studies in **Data Structures and Algorithms**.
 
 ### 💭 *My Approach*
