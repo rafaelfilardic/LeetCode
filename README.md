@@ -13,10 +13,7 @@ O objetivo principal deste repositório não é fornecer as soluções mais otim
 
 ## 🖥️ Tecnologias Utilizadas
 <p align="left">
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/java.svg" width="56" alt="Java" />
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/python.svg" width="56" alt="Python" />
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/c.svg" width="56" alt="C" />
-  <img src="https://raw.githubusercontent.com/syvixor/skills-icons/main/icons/postgresql.svg" width="56" alt="PostgreSQL" />
+  <img src="https://skills.syvixor.com/api/icons?perline=15&i=java,postgresql" />
 </p>
 
 ---
